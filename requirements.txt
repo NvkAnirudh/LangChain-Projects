@@ -1,5 +1,6 @@
 langchain_openai 
 langchain_core
+langchain
 python-dotenv
 streamlit
 langchain_community
@@ -7,3 +8,8 @@ langserve
 fastapi
 uvicorn
 sse_starlette
+ipykernel
+bs4
+pypdf
+chromadb
+faiss-cpu
