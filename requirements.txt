@@ -1,5 +1,6 @@
 langchain_openai 
 langchain_core
+langchain-groq
 langchain
 python-dotenv
 streamlit
@@ -16,3 +17,5 @@ faiss-cpu
 arxiv
 wikipedia
 langchainhub
+groq
+beautifulsoup4
